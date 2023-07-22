@@ -10,11 +10,7 @@ p {
     font-size: 40px;
 }
 
-div {
-    background: pink;
-    width: 500px;
-    height: 500px;
-}
+
 
 .top-section { /* the period means its a class */
     background: green;
