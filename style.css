@@ -4,7 +4,7 @@
     }
 
     to {
-        transform: translateX(25%);
+        transform: translateX(12%);
     }
 }
 
@@ -31,7 +31,8 @@
 
 .txt-background {
 
-    position: relative;
+    position: absolute;
     z-index: -2; 
+    top: 0px;
 
 }
