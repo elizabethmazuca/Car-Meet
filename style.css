@@ -28,3 +28,10 @@
     animation-fill-mode: forwards;
 
 }
+
+.txt-background {
+
+    position: relative;
+    z-index: -2; 
+
+}
