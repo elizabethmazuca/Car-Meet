@@ -36,3 +36,8 @@
     top: 0px;
 
 }
+
+.BRZ-comments {
+    display: flex;
+    justify-content: space-evenly;
+}
